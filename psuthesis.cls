@@ -425,7 +425,7 @@ I grant The Pennsylvania State University the non-exclusive right to use this wo
 \vfill
 \vfill
 \begin{center}
-    A dissertation submitted to the \\ Faculty of the Graduate School of \\ the University at Buffalo, State University of New York \\ in partial fulfilment of the requirements for the \\ degree of
+    A dissertation submitted to the \\ faculty of the Graduate School of \\ the University at Buffalo, The State University of New York \\ in partial fulfilment of the requirements for the degree of
 \end{center}
 \vfill
 \begin{center}
